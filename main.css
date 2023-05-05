@@ -124,24 +124,6 @@ themevarsp
     transition:250ms;
 }
 
-
-/* Attachments in chat */
-
-.attachment-1PZZB2, .theme-dark .wrapperAudio-1Bzv_Z{
-    border-radius: 15px;
-    background-color:var(--dark-bright);
-    width:150%;
-}
-
-.audioControls-3fmemK{
-    border-radius: 25px;
-}
-
-.filenameLinkWrapper-3Rc6sk, .metadata-1E7Z4i, .metadataName-1KMZtB{
-    font-size:18px;
-    text-align: center;
-}
-
 /* chat embeds */
 
 .embedFull-1HGV2S{
