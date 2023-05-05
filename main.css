@@ -132,10 +132,6 @@ themevarsp
     background-color:var(--dark-bright);
     width:150%;
 }
-.attachment-1PZZB2:hover, .theme-dark .wrapperAudio-1Bzv_Z:hover{
-    background-color:var(--dark-secondary);
-    transition: 250ms;
-}
 
 .audioControls-3fmemK{
     border-radius: 25px;
